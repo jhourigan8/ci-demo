@@ -2,4 +2,4 @@
 
 const { v4: uuidv4 } = require('uuid');
 
-console.log('Hello from ' + uuidv4())
+console.log('Hello again from ' + uuidv4())
